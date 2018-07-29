@@ -1,0 +1,5 @@
+/*the below nth-child() class finds the third item in div.third and makes the background of that element blue*/
+div.third ul li:nth-child(3)
+{
+   background:blue; 
+}
